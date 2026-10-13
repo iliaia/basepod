@@ -8,7 +8,7 @@ A simple and grounded podcast rss creator from mp3 files
 1. No Database.
 2. No web server (static only).
 3. Manual file manipulations.
-## Features
+4. Only one podcast (for now).
+## Technical solution
 1. Episode data is inside mp3 file, rescan on each rescan.
 2. Podcast data is inside yaml file, rescan on each rescan.
-3. Only one podcast (for now).
